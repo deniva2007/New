@@ -1,0 +1,123 @@
+.container{ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ overflow-y:  hidden;
+}
+.nav-list{
+    text-decoration: none;
+    background-color: white;
+    padding: 30px;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 1px 1px 20px 1px;
+    
+}
+.nav-list a{
+    color: #09f;
+    text-decoration: none;
+    padding: 30px;
+}
+.home{
+    position: absolute;
+    text-align: left;
+    
+    justify-content: left;
+    width: 1700px;
+    height: 250px;
+    box-shadow: 1px 1px 20px 1px;
+
+
+}
+.icons{ position: absolute;
+    top: 400px;
+
+    width: 1700px;
+    height: 250px;
+    box-shadow: 1px 1px 20px 1px;
+
+    
+}
+.location{
+    background-color: #09f;
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    padding: 20px;
+    width: 2.7rem;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    overflow: hidden;
+    box-sizing: content-box;
+
+
+
+
+}
+.callteam{ background-color: #09f;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    padding: 20px;
+    width: 2.7rem;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    overflow: hidden;
+    box-sizing: content-box;
+
+}
+.email{background-color: #09f;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    padding: 20px;
+    width: 2.7rem;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    overflow: hidden;
+    box-sizing: content-box;
+
+}
+.coder{
+    background-color: #09f;
+    position: absolute;
+    top: 100px;
+    left: 900px;
+    padding: 20px;
+    width: 2.7rem;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    overflow: hidden;
+    box-sizing: content-box;
+
+}
+.footer{
+    position: absolute;
+    top: 800px;
+
+    width: 1700px;
+    height: 700px;
+    box-shadow: 1px 1px 20px 1px;
+
+
+}
+.let{
+    position: absolute;
+    top: 900px;
+left: 700px;
+    width: 700px;
+    height: 500px;
+    box-shadow: 1px 1px 20px 1px;
+    border-radius: 20px;
+
+
+}
+footer .copyright-container{
+	background: #09f;
+	display: flex;
+	text-align: center;
+	padding: 20px;
+	color: #fff;
+	box-shadow: -20px -20px 30px 20px;
+    position: absolute;
+    top: 1700px;
+    width: 1800px;
+    text-align: center;
+}
